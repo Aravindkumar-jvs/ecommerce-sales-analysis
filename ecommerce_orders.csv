@@ -1,0 +1,501 @@
+Order_ID,Customer_ID,City,Category,Product_Name,Unit_Price,Quantity,Discount_Pct,Revenue,Order_Date,Year,Month,Quarter,Payment_Method,Order_Status,Customer_Rating
+ORD-10001,CUST0085,Pune,Home & Kitchen,Mixer,3360.82,4,0.16,11292.36,2022-08-24,2022,8,Q3,Credit Card,Returned,
+ORD-10002,CUST0106,Bangalore,Beauty,Moisturizer,940.5,3,0.19,2285.41,2023-10-16,2023,10,Q4,Debit Card,Delivered,4.0
+ORD-10003,CUST0041,Chennai,Electronics,Smartwatch,3614.41,3,0.15,9216.75,2023-08-22,2023,8,Q3,Credit Card,Cancelled,
+ORD-10004,CUST0071,Mumbai,Toys,Board Game,1688.57,1,0.15,1435.28,2023-07-13,2023,7,Q3,Credit Card,Delivered,3.9
+ORD-10005,CUST0186,Bangalore,Sports,Yoga Mat,1172.0,1,0.22,914.16,2022-08-21,2022,8,Q3,Debit Card,Delivered,2.9
+ORD-10006,CUST0158,Mumbai,Clothing,T-Shirt,983.27,4,0.05,3736.43,2023-04-20,2023,4,Q2,COD,Delivered,2.9
+ORD-10007,CUST0190,Kolkata,Electronics,Earphones,4199.6,4,0.06,15790.5,2023-01-03,2023,1,Q1,Net Banking,Delivered,4.1
+ORD-10008,CUST0146,Hyderabad,Electronics,Laptop,55726.03,1,0.23,42909.04,2023-04-28,2023,4,Q2,COD,Delivered,4.7
+ORD-10009,CUST0065,Ahmedabad,Clothing,Jeans,2725.95,2,0.23,4197.96,2024-02-04,2024,2,Q1,Credit Card,Delivered,4.0
+ORD-10010,CUST0143,Pune,Electronics,Earphones,4784.08,2,0.28,6889.08,2023-08-08,2023,8,Q3,Credit Card,Delivered,3.7
+ORD-10011,CUST0009,Hyderabad,Clothing,T-Shirt,618.37,3,0.25,1391.33,2023-11-01,2023,11,Q4,UPI,Delivered,4.0
+ORD-10012,CUST0132,Kolkata,Home & Kitchen,Mixer,4172.95,3,0.22,9764.7,2024-05-08,2024,5,Q2,Debit Card,Returned,
+ORD-10013,CUST0042,Bangalore,Home & Kitchen,Bedsheet,1986.63,2,0.07,3695.13,2023-06-17,2023,6,Q2,Credit Card,Cancelled,
+ORD-10014,CUST0047,Delhi,Toys,LEGO Set,2609.8,1,0.25,1957.35,2022-09-27,2022,9,Q3,Credit Card,Delivered,5.0
+ORD-10015,CUST0129,Ahmedabad,Books,Self Help,352.91,4,0.04,1355.17,2022-03-14,2022,3,Q1,Net Banking,Delivered,2.7
+ORD-10016,CUST0095,Mumbai,Sports,Dumbbells,1643.2,4,0.28,4732.42,2022-07-06,2022,7,Q3,Debit Card,Delivered,4.3
+ORD-10017,CUST0045,Bangalore,Automotive,Seat Cushion,1187.02,1,0.13,1032.71,2023-02-18,2023,2,Q1,Wallet,Delivered,4.7
+ORD-10018,CUST0059,Pune,Home & Kitchen,Air Purifier,6678.43,1,0.07,6210.94,2024-12-10,2024,12,Q4,Net Banking,Delivered,3.5
+ORD-10019,CUST0161,Ahmedabad,Clothing,Jeans,1351.09,3,0.15,3445.28,2022-07-18,2022,7,Q3,Credit Card,Delivered,3.6
+ORD-10020,CUST0003,Chennai,Beauty,Serum,2805.54,3,0.06,7911.62,2023-06-07,2023,6,Q2,UPI,Delivered,3.0
+ORD-10021,CUST0136,Hyderabad,Beauty,Moisturizer,407.08,4,0.04,1563.19,2023-09-17,2023,9,Q3,Net Banking,Delivered,2.6
+ORD-10022,CUST0005,Chennai,Electronics,Earphones,1772.72,1,0.25,1329.54,2024-02-17,2024,2,Q1,UPI,Delivered,4.7
+ORD-10023,CUST0057,Mumbai,Sports,Yoga Mat,1257.78,1,0.01,1245.2,2023-03-10,2023,3,Q1,UPI,Delivered,4.4
+ORD-10024,CUST0128,Pune,Clothing,T-Shirt,690.65,4,0.02,2707.35,2024-01-28,2024,1,Q1,Net Banking,Delivered,4.4
+ORD-10025,CUST0017,Kolkata,Books,Textbook,940.87,1,0.08,865.6,2023-05-14,2023,5,Q2,Debit Card,Pending,
+ORD-10026,CUST0055,Bangalore,Books,Textbook,858.83,3,0.26,1906.6,2023-05-13,2023,5,Q2,Net Banking,Delivered,3.8
+ORD-10027,CUST0127,Hyderabad,Books,Fiction Novel,510.69,1,0.22,398.34,2023-08-02,2023,8,Q3,Wallet,Returned,
+ORD-10028,CUST0155,Mumbai,Automotive,Tyre Inflator,2546.84,3,0.15,6494.44,2023-04-27,2023,4,Q2,Credit Card,Delivered,4.8
+ORD-10029,CUST0087,Chennai,Toys,Board Game,508.99,3,0.14,1313.19,2024-09-30,2024,9,Q3,Credit Card,Pending,
+ORD-10030,CUST0109,Kolkata,Electronics,Smartphone,31893.11,2,0.26,47201.8,2023-01-29,2023,1,Q1,Wallet,Cancelled,
+ORD-10031,CUST0004,Bangalore,Electronics,Smartphone,18640.9,3,0.07,52008.11,2022-08-07,2022,8,Q3,UPI,Pending,
+ORD-10032,CUST0027,Kolkata,Home & Kitchen,Cookware Set,3420.65,3,0.3,7183.36,2024-04-30,2024,4,Q2,Debit Card,Delivered,4.4
+ORD-10033,CUST0193,Hyderabad,Toys,LEGO Set,1048.6,3,0.08,2894.14,2022-11-21,2022,11,Q4,Credit Card,Delivered,2.6
+ORD-10034,CUST0056,Hyderabad,Clothing,Dress,2209.78,2,0.27,3226.28,2024-09-18,2024,9,Q3,COD,Cancelled,
+ORD-10035,CUST0073,Bangalore,Books,Comic,175.68,3,0.19,426.9,2024-07-29,2024,7,Q3,UPI,Delivered,3.8
+ORD-10036,CUST0038,Mumbai,Sports,Dumbbells,2044.49,1,0.07,1901.38,2024-06-09,2024,6,Q2,UPI,Delivered,4.3
+ORD-10037,CUST0022,Pune,Toys,LEGO Set,833.74,1,0.13,725.35,2022-08-07,2022,8,Q3,Credit Card,Delivered,4.4
+ORD-10038,CUST0143,Pune,Books,Self Help,190.09,3,0.21,450.51,2022-12-21,2022,12,Q4,Debit Card,Delivered,2.7
+ORD-10039,CUST0130,Bangalore,Clothing,Dress,685.48,2,0.09,1247.57,2023-11-17,2023,11,Q4,Wallet,Delivered,4.9
+ORD-10040,CUST0179,Delhi,Automotive,Dash Cam,3309.36,2,0.01,6552.53,2023-10-28,2023,10,Q4,Wallet,Cancelled,
+ORD-10041,CUST0155,Mumbai,Sports,Yoga Mat,1292.06,4,0.22,4031.23,2022-12-02,2022,12,Q4,Debit Card,Delivered,4.3
+ORD-10042,CUST0012,Ahmedabad,Books,Fiction Novel,206.57,3,0.05,588.72,2024-06-12,2024,6,Q2,UPI,Delivered,4.9
+ORD-10043,CUST0187,Bangalore,Books,Textbook,455.69,3,0.21,1079.99,2022-07-25,2022,7,Q3,Credit Card,Delivered,4.2
+ORD-10044,CUST0122,Delhi,Beauty,Perfume,1393.98,2,0.01,2760.08,2022-07-09,2022,7,Q3,COD,Delivered,3.9
+ORD-10045,CUST0035,Ahmedabad,Beauty,Perfume,1665.34,2,0.29,2364.78,2023-12-22,2023,12,Q4,Wallet,Delivered,2.7
+ORD-10046,CUST0071,Mumbai,Electronics,Earphones,2439.85,2,0.18,4001.35,2023-08-16,2023,8,Q3,Debit Card,Delivered,2.8
+ORD-10047,CUST0068,Bangalore,Home & Kitchen,Air Purifier,14700.75,1,0.16,12348.63,2024-12-31,2024,12,Q4,Net Banking,Delivered,3.8
+ORD-10048,CUST0008,Delhi,Home & Kitchen,Air Purifier,8033.06,4,0.03,31168.27,2023-12-09,2023,12,Q4,Debit Card,Cancelled,
+ORD-10049,CUST0010,Kolkata,Automotive,Car Covers,1249.68,3,0.07,3486.61,2024-11-05,2024,11,Q4,Credit Card,Delivered,4.8
+ORD-10050,CUST0186,Bangalore,Home & Kitchen,Air Purifier,12757.79,1,0.02,12502.63,2023-03-19,2023,3,Q1,Credit Card,Returned,
+ORD-10051,CUST0056,Hyderabad,Automotive,Seat Cushion,1107.55,4,0.15,3765.67,2022-01-07,2022,1,Q1,COD,Returned,
+ORD-10052,CUST0141,Pune,Sports,Yoga Mat,1483.81,4,0.06,5579.13,2022-09-15,2022,9,Q3,COD,Delivered,2.6
+ORD-10053,CUST0096,Pune,Electronics,Earphones,1037.46,1,0.21,819.59,2024-03-16,2024,3,Q1,Net Banking,Pending,
+ORD-10054,CUST0085,Pune,Home & Kitchen,Air Purifier,10738.81,2,0.21,16967.32,2022-03-07,2022,3,Q1,UPI,Delivered,3.8
+ORD-10055,CUST0123,Ahmedabad,Sports,Running Shoes,5802.57,3,0.05,16537.32,2023-06-05,2023,6,Q2,Net Banking,Cancelled,
+ORD-10056,CUST0198,Bangalore,Toys,RC Car,2899.26,3,0.14,7480.09,2022-12-19,2022,12,Q4,Wallet,Pending,
+ORD-10057,CUST0077,Delhi,Books,Self Help,210.51,1,0.05,199.98,2023-04-01,2023,4,Q2,Net Banking,Delivered,3.4
+ORD-10058,CUST0119,Kolkata,Home & Kitchen,Air Purifier,8745.39,2,0.0,17490.78,2024-08-07,2024,8,Q3,Net Banking,Delivered,4.1
+ORD-10059,CUST0120,Hyderabad,Home & Kitchen,Air Purifier,10667.9,1,0.15,9067.72,2022-11-11,2022,11,Q4,Credit Card,Delivered,4.5
+ORD-10060,CUST0181,Kolkata,Toys,RC Car,2455.56,3,0.1,6630.01,2023-03-18,2023,3,Q1,Debit Card,Delivered,4.9
+ORD-10061,CUST0088,Hyderabad,Sports,Running Shoes,2205.17,2,0.21,3484.17,2023-04-17,2023,4,Q2,Credit Card,Delivered,4.3
+ORD-10062,CUST0002,Kolkata,Clothing,Jacket,3022.83,3,0.13,7889.59,2024-11-01,2024,11,Q4,Wallet,Pending,
+ORD-10063,CUST0124,Kolkata,Toys,Doll,682.87,2,0.19,1106.25,2022-10-21,2022,10,Q4,Wallet,Delivered,4.6
+ORD-10064,CUST0153,Pune,Automotive,Tyre Inflator,1820.98,4,0.21,5754.3,2024-09-24,2024,9,Q3,COD,Delivered,3.6
+ORD-10065,CUST0126,Delhi,Automotive,Car Covers,1225.84,4,0.06,4609.16,2023-12-09,2023,12,Q4,Net Banking,Delivered,4.7
+ORD-10066,CUST0141,Pune,Beauty,Moisturizer,1147.83,2,0.26,1698.79,2022-09-07,2022,9,Q3,COD,Delivered,4.8
+ORD-10067,CUST0198,Bangalore,Electronics,Smartphone,18789.97,2,0.04,36076.74,2023-03-28,2023,3,Q1,Credit Card,Returned,
+ORD-10068,CUST0155,Mumbai,Beauty,Moisturizer,1445.63,2,0.01,2862.35,2023-03-26,2023,3,Q1,Debit Card,Pending,
+ORD-10069,CUST0089,Delhi,Electronics,Laptop,60370.4,4,0.11,214918.62,2024-01-22,2024,1,Q1,UPI,Cancelled,
+ORD-10070,CUST0055,Bangalore,Sports,Dumbbells,641.74,4,0.03,2489.95,2022-03-26,2022,3,Q1,Net Banking,Returned,
+ORD-10071,CUST0166,Hyderabad,Books,Textbook,606.13,4,0.1,2182.07,2023-09-10,2023,9,Q3,Net Banking,Delivered,2.5
+ORD-10072,CUST0109,Kolkata,Electronics,Earphones,3050.96,1,0.1,2745.86,2022-02-27,2022,2,Q1,UPI,Returned,
+ORD-10073,CUST0082,Kolkata,Electronics,Laptop,55496.89,3,0.18,136522.35,2023-07-07,2023,7,Q3,UPI,Cancelled,
+ORD-10074,CUST0023,Delhi,Toys,Board Game,1364.87,2,0.2,2183.79,2022-06-11,2022,6,Q2,Credit Card,Delivered,4.5
+ORD-10075,CUST0014,Kolkata,Sports,Cricket Bat,2245.07,3,0.29,4782.0,2023-05-18,2023,5,Q2,COD,Cancelled,
+ORD-10076,CUST0049,Bangalore,Books,Comic,150.37,1,0.26,111.27,2023-10-06,2023,10,Q4,Net Banking,Delivered,4.3
+ORD-10077,CUST0009,Hyderabad,Home & Kitchen,Cookware Set,3609.42,1,0.2,2887.54,2022-11-14,2022,11,Q4,UPI,Delivered,3.7
+ORD-10078,CUST0081,Bangalore,Electronics,Laptop,50818.46,3,0.17,126537.97,2023-05-22,2023,5,Q2,Credit Card,Pending,
+ORD-10079,CUST0144,Mumbai,Sports,Dumbbells,1635.83,1,0.25,1226.87,2022-06-21,2022,6,Q2,Wallet,Delivered,4.0
+ORD-10080,CUST0055,Bangalore,Sports,Dumbbells,1775.1,3,0.04,5112.29,2023-04-22,2023,4,Q2,COD,Pending,
+ORD-10081,CUST0193,Hyderabad,Automotive,Dash Cam,4497.99,2,0.13,7826.5,2023-04-10,2023,4,Q2,Credit Card,Delivered,4.3
+ORD-10082,CUST0045,Bangalore,Beauty,Perfume,4032.07,2,0.03,7822.22,2022-03-20,2022,3,Q1,Debit Card,Delivered,3.2
+ORD-10083,CUST0032,Chennai,Toys,LEGO Set,1026.18,2,0.0,2052.36,2022-06-29,2022,6,Q2,Credit Card,Delivered,2.5
+ORD-10084,CUST0110,Ahmedabad,Books,Textbook,1001.32,2,0.13,1742.3,2022-04-07,2022,4,Q2,Debit Card,Delivered,3.8
+ORD-10085,CUST0154,Kolkata,Beauty,Moisturizer,660.82,3,0.2,1585.97,2023-09-22,2023,9,Q3,Debit Card,Delivered,4.2
+ORD-10086,CUST0070,Ahmedabad,Electronics,Earphones,3944.99,2,0.18,6469.78,2022-08-15,2022,8,Q3,Net Banking,Cancelled,
+ORD-10087,CUST0052,Delhi,Sports,Cricket Bat,941.52,4,0.24,2862.22,2023-01-10,2023,1,Q1,Wallet,Delivered,3.6
+ORD-10088,CUST0197,Kolkata,Clothing,Dress,873.15,2,0.06,1641.52,2024-11-25,2024,11,Q4,Credit Card,Pending,
+ORD-10089,CUST0144,Mumbai,Automotive,Tyre Inflator,2162.75,3,0.16,5450.13,2022-09-24,2022,9,Q3,Net Banking,Returned,
+ORD-10090,CUST0165,Ahmedabad,Beauty,Perfume,3878.15,1,0.26,2869.83,2022-05-20,2022,5,Q2,COD,Delivered,3.1
+ORD-10091,CUST0099,Kolkata,Home & Kitchen,Bedsheet,1616.73,3,0.24,3686.14,2023-08-01,2023,8,Q3,UPI,Delivered,4.7
+ORD-10092,CUST0162,Chennai,Electronics,Smartphone,33009.45,3,0.11,88135.23,2022-11-13,2022,11,Q4,UPI,Returned,
+ORD-10093,CUST0072,Bangalore,Automotive,Seat Cushion,777.71,2,0.06,1462.09,2023-07-24,2023,7,Q3,COD,Delivered,4.0
+ORD-10094,CUST0056,Hyderabad,Automotive,Seat Cushion,923.36,3,0.14,2382.27,2022-12-21,2022,12,Q4,UPI,Pending,
+ORD-10095,CUST0193,Hyderabad,Electronics,Smartwatch,7766.93,3,0.0,23300.79,2024-02-15,2024,2,Q1,COD,Delivered,3.2
+ORD-10096,CUST0040,Bangalore,Clothing,Jeans,1656.08,2,0.16,2782.21,2023-02-03,2023,2,Q1,COD,Cancelled,
+ORD-10097,CUST0103,Kolkata,Clothing,Jacket,1702.21,4,0.09,6196.04,2024-11-01,2024,11,Q4,COD,Returned,
+ORD-10098,CUST0063,Mumbai,Automotive,Car Covers,1418.58,4,0.17,4709.69,2024-01-26,2024,1,Q1,Credit Card,Delivered,4.2
+ORD-10099,CUST0059,Pune,Electronics,Smartphone,38705.86,2,0.21,61155.26,2023-03-04,2023,3,Q1,Credit Card,Delivered,3.3
+ORD-10100,CUST0022,Pune,Toys,Doll,1306.62,1,0.05,1241.29,2022-06-27,2022,6,Q2,COD,Delivered,3.6
+ORD-10101,CUST0018,Chennai,Home & Kitchen,Cookware Set,2620.97,3,0.24,5975.81,2022-06-20,2022,6,Q2,Net Banking,Cancelled,
+ORD-10102,CUST0132,Kolkata,Home & Kitchen,Cookware Set,3447.14,1,0.02,3378.2,2023-05-21,2023,5,Q2,Debit Card,Delivered,4.7
+ORD-10103,CUST0035,Ahmedabad,Beauty,Perfume,4537.4,3,0.22,10617.52,2024-07-07,2024,7,Q3,Debit Card,Returned,
+ORD-10104,CUST0020,Ahmedabad,Toys,Doll,878.3,3,0.21,2081.57,2023-12-20,2023,12,Q4,Credit Card,Delivered,3.0
+ORD-10105,CUST0024,Delhi,Electronics,Smartwatch,14525.9,4,0.16,48807.02,2023-03-24,2023,3,Q1,Wallet,Delivered,3.5
+ORD-10106,CUST0044,Bangalore,Electronics,Laptop,47374.85,2,0.16,79589.75,2024-03-06,2024,3,Q1,Debit Card,Delivered,3.3
+ORD-10107,CUST0106,Bangalore,Beauty,Moisturizer,960.33,4,0.01,3802.91,2023-02-10,2023,2,Q1,Wallet,Delivered,2.8
+ORD-10108,CUST0076,Delhi,Beauty,Lipstick,276.71,3,0.04,796.92,2024-08-25,2024,8,Q3,COD,Delivered,4.5
+ORD-10109,CUST0129,Ahmedabad,Home & Kitchen,Mixer,1758.17,1,0.16,1476.86,2023-10-13,2023,10,Q4,Net Banking,Cancelled,
+ORD-10110,CUST0085,Pune,Electronics,Smartphone,29178.54,2,0.26,43184.24,2024-02-11,2024,2,Q1,Wallet,Delivered,3.2
+ORD-10111,CUST0056,Hyderabad,Automotive,Tyre Inflator,874.6,1,0.15,743.41,2022-11-11,2022,11,Q4,Net Banking,Delivered,3.3
+ORD-10112,CUST0040,Bangalore,Automotive,Car Covers,1177.75,2,0.02,2308.39,2024-12-18,2024,12,Q4,Debit Card,Delivered,3.1
+ORD-10113,CUST0098,Kolkata,Home & Kitchen,Cookware Set,868.03,3,0.1,2343.68,2023-02-11,2023,2,Q1,UPI,Delivered,2.7
+ORD-10114,CUST0082,Kolkata,Automotive,Car Covers,1510.76,2,0.19,2447.43,2022-09-20,2022,9,Q3,Wallet,Delivered,2.8
+ORD-10115,CUST0059,Pune,Electronics,Earphones,2989.9,4,0.22,9328.49,2024-01-31,2024,1,Q1,Credit Card,Returned,
+ORD-10116,CUST0140,Kolkata,Beauty,Serum,2003.96,2,0.23,3086.1,2022-03-20,2022,3,Q1,Credit Card,Delivered,3.3
+ORD-10117,CUST0074,Kolkata,Books,Textbook,433.39,1,0.07,403.05,2022-04-21,2022,4,Q2,Credit Card,Delivered,4.0
+ORD-10118,CUST0058,Kolkata,Toys,LEGO Set,1763.91,1,0.27,1287.65,2024-08-04,2024,8,Q3,Debit Card,Delivered,4.5
+ORD-10119,CUST0019,Bangalore,Beauty,Moisturizer,623.55,3,0.27,1365.57,2024-05-30,2024,5,Q2,COD,Delivered,4.4
+ORD-10120,CUST0162,Chennai,Home & Kitchen,Air Purifier,11423.77,3,0.27,25018.06,2024-09-20,2024,9,Q3,Credit Card,Delivered,2.9
+ORD-10121,CUST0056,Hyderabad,Electronics,Smartphone,41282.22,3,0.15,105269.66,2024-12-12,2024,12,Q4,Wallet,Cancelled,
+ORD-10122,CUST0115,Delhi,Toys,Doll,511.04,4,0.18,1676.21,2023-09-25,2023,9,Q3,Credit Card,Cancelled,
+ORD-10123,CUST0034,Delhi,Electronics,Earphones,2454.77,2,0.09,4467.68,2022-07-05,2022,7,Q3,Credit Card,Delivered,3.3
+ORD-10124,CUST0013,Chennai,Beauty,Serum,872.24,4,0.29,2477.16,2023-03-06,2023,3,Q1,Wallet,Delivered,4.5
+ORD-10125,CUST0050,Ahmedabad,Beauty,Moisturizer,1442.68,4,0.08,5309.06,2024-01-30,2024,1,Q1,Net Banking,Delivered,3.1
+ORD-10126,CUST0001,Kolkata,Books,Self Help,461.28,1,0.1,415.15,2022-04-21,2022,4,Q2,Credit Card,Returned,
+ORD-10127,CUST0090,Pune,Electronics,Smartwatch,6098.42,1,0.25,4573.82,2023-05-27,2023,5,Q2,COD,Delivered,3.5
+ORD-10128,CUST0090,Pune,Books,Comic,160.94,3,0.11,429.71,2023-06-19,2023,6,Q2,COD,Delivered,4.0
+ORD-10129,CUST0170,Hyderabad,Sports,Running Shoes,4643.07,2,0.11,8264.66,2024-05-06,2024,5,Q2,Net Banking,Pending,
+ORD-10130,CUST0074,Kolkata,Books,Textbook,1068.41,3,0.06,3012.92,2022-12-23,2022,12,Q4,Credit Card,Delivered,3.2
+ORD-10131,CUST0025,Ahmedabad,Toys,Board Game,1625.32,1,0.12,1430.28,2024-03-11,2024,3,Q1,COD,Pending,
+ORD-10132,CUST0009,Hyderabad,Automotive,Seat Cushion,458.89,4,0.18,1505.16,2023-03-22,2023,3,Q1,UPI,Delivered,3.7
+ORD-10133,CUST0149,Hyderabad,Sports,Dumbbells,1179.44,3,0.21,2795.27,2023-11-11,2023,11,Q4,Credit Card,Cancelled,
+ORD-10134,CUST0038,Mumbai,Clothing,T-Shirt,714.57,2,0.17,1186.19,2022-01-12,2022,1,Q1,COD,Delivered,3.0
+ORD-10135,CUST0030,Mumbai,Beauty,Serum,1169.56,1,0.11,1040.91,2023-06-28,2023,6,Q2,COD,Delivered,3.4
+ORD-10136,CUST0070,Ahmedabad,Books,Comic,373.85,2,0.1,672.93,2024-02-26,2024,2,Q1,Credit Card,Cancelled,
+ORD-10137,CUST0091,Bangalore,Toys,LEGO Set,1874.05,1,0.15,1592.94,2022-08-03,2022,8,Q3,Net Banking,Delivered,3.7
+ORD-10138,CUST0157,Chennai,Clothing,Jacket,2089.12,4,0.11,7437.27,2024-07-12,2024,7,Q3,Net Banking,Returned,
+ORD-10139,CUST0127,Hyderabad,Sports,Running Shoes,2673.01,1,0.18,2191.87,2022-11-13,2022,11,Q4,UPI,Cancelled,
+ORD-10140,CUST0011,Delhi,Home & Kitchen,Bedsheet,1260.34,1,0.0,1260.34,2023-09-26,2023,9,Q3,Credit Card,Delivered,3.9
+ORD-10141,CUST0032,Chennai,Electronics,Smartwatch,9406.54,3,0.18,23140.09,2024-02-26,2024,2,Q1,Debit Card,Delivered,3.6
+ORD-10142,CUST0001,Kolkata,Clothing,Jacket,3370.95,2,0.2,5393.52,2024-09-18,2024,9,Q3,Credit Card,Cancelled,
+ORD-10143,CUST0083,Bangalore,Clothing,T-Shirt,654.94,1,0.12,576.35,2022-05-15,2022,5,Q2,Debit Card,Delivered,4.1
+ORD-10144,CUST0092,Delhi,Books,Fiction Novel,406.27,1,0.02,398.14,2022-10-10,2022,10,Q4,Wallet,Delivered,5.0
+ORD-10145,CUST0014,Kolkata,Automotive,Tyre Inflator,2092.42,2,0.14,3598.96,2022-08-17,2022,8,Q3,Debit Card,Delivered,4.4
+ORD-10146,CUST0044,Bangalore,Automotive,Tyre Inflator,1217.26,3,0.26,2702.32,2022-02-25,2022,2,Q1,COD,Delivered,4.2
+ORD-10147,CUST0163,Hyderabad,Electronics,Smartphone,43226.73,1,0.25,32420.05,2023-10-06,2023,10,Q4,Credit Card,Delivered,4.8
+ORD-10148,CUST0026,Pune,Home & Kitchen,Air Purifier,8018.54,2,0.23,12348.55,2022-05-25,2022,5,Q2,Wallet,Delivered,3.4
+ORD-10149,CUST0191,Bangalore,Books,Self Help,388.95,2,0.28,560.09,2024-09-19,2024,9,Q3,Credit Card,Returned,
+ORD-10150,CUST0138,Ahmedabad,Home & Kitchen,Cookware Set,2125.24,3,0.01,6311.96,2022-12-19,2022,12,Q4,Net Banking,Delivered,3.0
+ORD-10151,CUST0063,Mumbai,Home & Kitchen,Air Purifier,9345.31,4,0.16,31400.24,2022-07-15,2022,7,Q3,Credit Card,Delivered,2.8
+ORD-10152,CUST0005,Chennai,Sports,Yoga Mat,1060.85,4,0.28,3055.25,2024-05-08,2024,5,Q2,COD,Delivered,4.5
+ORD-10153,CUST0003,Chennai,Sports,Cricket Bat,1279.15,2,0.01,2532.72,2023-10-14,2023,10,Q4,Wallet,Delivered,3.0
+ORD-10154,CUST0110,Ahmedabad,Toys,Board Game,1130.43,1,0.23,870.43,2023-01-11,2023,1,Q1,Wallet,Delivered,4.8
+ORD-10155,CUST0061,Kolkata,Automotive,Dash Cam,3462.53,4,0.11,12326.61,2024-05-03,2024,5,Q2,Debit Card,Delivered,4.5
+ORD-10156,CUST0171,Delhi,Books,Comic,302.36,3,0.03,879.87,2023-05-10,2023,5,Q2,Wallet,Delivered,4.4
+ORD-10157,CUST0136,Hyderabad,Sports,Running Shoes,2607.5,1,0.14,2242.45,2023-02-14,2023,2,Q1,Credit Card,Delivered,3.1
+ORD-10158,CUST0117,Chennai,Automotive,Car Covers,1766.62,2,0.17,2932.59,2023-12-31,2023,12,Q4,Debit Card,Delivered,3.3
+ORD-10159,CUST0064,Chennai,Electronics,Smartwatch,10597.59,2,0.22,16532.24,2024-05-02,2024,5,Q2,Net Banking,Delivered,2.8
+ORD-10160,CUST0157,Chennai,Clothing,Jeans,962.02,2,0.1,1731.64,2023-10-15,2023,10,Q4,Wallet,Pending,
+ORD-10161,CUST0004,Bangalore,Beauty,Moisturizer,646.76,2,0.16,1086.56,2023-05-07,2023,5,Q2,Net Banking,Delivered,4.0
+ORD-10162,CUST0078,Bangalore,Toys,Board Game,1076.97,4,0.26,3187.83,2023-01-26,2023,1,Q1,Wallet,Delivered,4.1
+ORD-10163,CUST0187,Bangalore,Clothing,T-Shirt,1028.44,2,0.23,1583.8,2024-07-03,2024,7,Q3,Wallet,Pending,
+ORD-10164,CUST0078,Bangalore,Beauty,Moisturizer,1033.57,4,0.25,3100.71,2022-02-21,2022,2,Q1,UPI,Cancelled,
+ORD-10165,CUST0048,Mumbai,Electronics,Smartwatch,10811.7,3,0.13,28218.54,2022-01-31,2022,1,Q1,UPI,Cancelled,
+ORD-10166,CUST0017,Kolkata,Toys,Doll,462.38,2,0.12,813.79,2024-09-13,2024,9,Q3,Wallet,Delivered,4.7
+ORD-10167,CUST0185,Pune,Automotive,Seat Cushion,992.18,3,0.11,2649.12,2023-01-17,2023,1,Q1,Credit Card,Delivered,4.8
+ORD-10168,CUST0018,Chennai,Beauty,Serum,1449.55,3,0.02,4261.68,2023-06-26,2023,6,Q2,UPI,Delivered,4.7
+ORD-10169,CUST0055,Bangalore,Books,Textbook,709.13,4,0.17,2354.31,2023-09-06,2023,9,Q3,Credit Card,Delivered,4.7
+ORD-10170,CUST0003,Chennai,Electronics,Earphones,2860.48,1,0.07,2660.25,2024-09-11,2024,9,Q3,COD,Delivered,4.2
+ORD-10171,CUST0182,Bangalore,Books,Fiction Novel,221.08,3,0.09,603.55,2022-12-12,2022,12,Q4,UPI,Cancelled,
+ORD-10172,CUST0014,Kolkata,Home & Kitchen,Mixer,2418.74,1,0.06,2273.62,2024-10-24,2024,10,Q4,COD,Cancelled,
+ORD-10173,CUST0108,Pune,Home & Kitchen,Mixer,2762.76,1,0.2,2210.21,2022-07-10,2022,7,Q3,Credit Card,Delivered,3.4
+ORD-10174,CUST0119,Kolkata,Toys,LEGO Set,2335.67,3,0.03,6796.8,2022-04-11,2022,4,Q2,Net Banking,Delivered,5.0
+ORD-10175,CUST0046,Mumbai,Sports,Dumbbells,1051.07,1,0.09,956.47,2023-04-07,2023,4,Q2,Wallet,Pending,
+ORD-10176,CUST0146,Hyderabad,Automotive,Tyre Inflator,1913.5,1,0.19,1549.94,2022-09-04,2022,9,Q3,COD,Cancelled,
+ORD-10177,CUST0029,Hyderabad,Sports,Yoga Mat,779.83,4,0.26,2308.3,2023-01-21,2023,1,Q1,UPI,Delivered,2.7
+ORD-10178,CUST0041,Chennai,Home & Kitchen,Air Purifier,11610.62,3,0.23,26820.53,2022-01-12,2022,1,Q1,Wallet,Delivered,3.0
+ORD-10179,CUST0122,Delhi,Beauty,Serum,1858.83,1,0.19,1505.65,2024-03-23,2024,3,Q1,UPI,Delivered,3.2
+ORD-10180,CUST0152,Kolkata,Books,Comic,396.84,3,0.2,952.42,2023-06-07,2023,6,Q2,Debit Card,Delivered,3.1
+ORD-10181,CUST0003,Chennai,Toys,LEGO Set,2368.33,4,0.25,7104.99,2024-06-21,2024,6,Q2,Net Banking,Returned,
+ORD-10182,CUST0094,Mumbai,Sports,Running Shoes,3992.57,4,0.15,13574.74,2023-06-06,2023,6,Q2,Net Banking,Cancelled,
+ORD-10183,CUST0141,Pune,Books,Textbook,1154.01,2,0.26,1707.93,2024-02-17,2024,2,Q1,COD,Delivered,4.2
+ORD-10184,CUST0106,Bangalore,Automotive,Car Covers,1706.32,4,0.09,6211.0,2022-05-05,2022,5,Q2,Net Banking,Delivered,4.1
+ORD-10185,CUST0084,Chennai,Automotive,Tyre Inflator,1061.52,2,0.08,1953.2,2022-10-23,2022,10,Q4,UPI,Pending,
+ORD-10186,CUST0064,Chennai,Sports,Cricket Bat,4739.03,2,0.22,7392.89,2024-04-23,2024,4,Q2,UPI,Pending,
+ORD-10187,CUST0106,Bangalore,Beauty,Perfume,4807.97,2,0.18,7885.07,2022-06-01,2022,6,Q2,Net Banking,Returned,
+ORD-10188,CUST0070,Ahmedabad,Beauty,Lipstick,236.77,4,0.1,852.37,2022-05-05,2022,5,Q2,Credit Card,Delivered,3.2
+ORD-10189,CUST0143,Pune,Automotive,Dash Cam,3056.78,1,0.15,2598.26,2023-01-10,2023,1,Q1,Net Banking,Delivered,3.5
+ORD-10190,CUST0120,Hyderabad,Clothing,Jeans,2303.34,1,0.15,1957.84,2022-10-31,2022,10,Q4,UPI,Delivered,3.8
+ORD-10191,CUST0119,Kolkata,Books,Comic,230.46,4,0.06,866.53,2022-10-26,2022,10,Q4,COD,Returned,
+ORD-10192,CUST0168,Mumbai,Clothing,Jeans,1923.81,2,0.11,3424.38,2024-08-28,2024,8,Q3,Debit Card,Returned,
+ORD-10193,CUST0010,Kolkata,Books,Self Help,460.76,4,0.14,1585.01,2023-10-15,2023,10,Q4,Debit Card,Pending,
+ORD-10194,CUST0053,Kolkata,Clothing,Jacket,4824.03,2,0.12,8490.29,2022-07-31,2022,7,Q3,Wallet,Delivered,4.7
+ORD-10195,CUST0041,Chennai,Books,Fiction Novel,424.17,4,0.03,1645.78,2022-10-17,2022,10,Q4,COD,Delivered,3.0
+ORD-10196,CUST0084,Chennai,Books,Textbook,947.36,3,0.02,2785.24,2023-07-02,2023,7,Q3,Debit Card,Delivered,4.1
+ORD-10197,CUST0171,Delhi,Home & Kitchen,Cookware Set,3569.44,3,0.17,8887.91,2022-06-29,2022,6,Q2,COD,Delivered,4.5
+ORD-10198,CUST0159,Hyderabad,Home & Kitchen,Cookware Set,2373.48,3,0.17,5909.97,2023-05-11,2023,5,Q2,Credit Card,Pending,
+ORD-10199,CUST0003,Chennai,Automotive,Seat Cushion,1238.48,1,0.17,1027.94,2022-04-07,2022,4,Q2,Credit Card,Cancelled,
+ORD-10200,CUST0017,Kolkata,Automotive,Seat Cushion,852.43,4,0.2,2727.78,2022-05-20,2022,5,Q2,Credit Card,Delivered,3.6
+ORD-10201,CUST0100,Pune,Books,Textbook,1098.36,3,0.25,2471.31,2023-11-14,2023,11,Q4,Wallet,Delivered,4.0
+ORD-10202,CUST0176,Pune,Automotive,Dash Cam,7153.22,1,0.02,7010.16,2023-08-06,2023,8,Q3,Credit Card,Delivered,4.3
+ORD-10203,CUST0179,Delhi,Home & Kitchen,Cookware Set,3081.92,1,0.29,2188.16,2023-04-02,2023,4,Q2,Credit Card,Delivered,3.9
+ORD-10204,CUST0195,Hyderabad,Beauty,Lipstick,375.13,1,0.23,288.85,2022-10-06,2022,10,Q4,Credit Card,Delivered,4.5
+ORD-10205,CUST0171,Delhi,Clothing,Jacket,4242.44,3,0.11,11327.31,2024-12-19,2024,12,Q4,Net Banking,Delivered,4.2
+ORD-10206,CUST0176,Pune,Electronics,Smartwatch,8051.84,1,0.21,6360.95,2022-10-16,2022,10,Q4,Credit Card,Delivered,3.5
+ORD-10207,CUST0179,Delhi,Clothing,Dress,1952.37,1,0.2,1561.9,2022-07-16,2022,7,Q3,COD,Delivered,3.5
+ORD-10208,CUST0173,Mumbai,Beauty,Serum,1322.12,2,0.04,2538.47,2023-12-23,2023,12,Q4,Wallet,Delivered,4.5
+ORD-10209,CUST0183,Hyderabad,Books,Self Help,426.5,4,0.05,1620.7,2022-10-09,2022,10,Q4,Wallet,Delivered,4.8
+ORD-10210,CUST0080,Bangalore,Electronics,Laptop,83209.91,1,0.01,82377.81,2023-11-12,2023,11,Q4,UPI,Delivered,4.7
+ORD-10211,CUST0044,Bangalore,Sports,Cricket Bat,3541.6,3,0.3,7437.36,2024-06-11,2024,6,Q2,Debit Card,Delivered,3.9
+ORD-10212,CUST0147,Chennai,Electronics,Smartwatch,18740.77,1,0.02,18365.95,2024-01-21,2024,1,Q1,Net Banking,Delivered,4.1
+ORD-10213,CUST0094,Mumbai,Toys,Board Game,818.3,1,0.03,793.75,2022-01-15,2022,1,Q1,COD,Delivered,2.8
+ORD-10214,CUST0175,Hyderabad,Automotive,Tyre Inflator,2780.41,4,0.07,10343.13,2023-02-17,2023,2,Q1,Debit Card,Cancelled,
+ORD-10215,CUST0045,Bangalore,Clothing,Jacket,5656.38,1,0.2,4525.1,2023-09-02,2023,9,Q3,UPI,Delivered,3.9
+ORD-10216,CUST0075,Delhi,Clothing,Dress,2384.49,2,0.19,3862.87,2023-03-12,2023,3,Q1,Credit Card,Delivered,3.1
+ORD-10217,CUST0071,Mumbai,Automotive,Car Covers,1833.6,1,0.28,1320.19,2022-11-24,2022,11,Q4,COD,Delivered,4.9
+ORD-10218,CUST0152,Kolkata,Clothing,Dress,2723.44,2,0.01,5392.41,2024-12-06,2024,12,Q4,COD,Returned,
+ORD-10219,CUST0047,Delhi,Home & Kitchen,Bedsheet,720.49,2,0.09,1311.29,2023-06-25,2023,6,Q2,Wallet,Cancelled,
+ORD-10220,CUST0177,Hyderabad,Electronics,Earphones,3560.68,4,0.23,10966.89,2023-10-29,2023,10,Q4,Net Banking,Delivered,4.7
+ORD-10221,CUST0113,Chennai,Automotive,Seat Cushion,934.57,2,0.03,1813.07,2023-11-02,2023,11,Q4,Net Banking,Cancelled,
+ORD-10222,CUST0063,Mumbai,Sports,Cricket Bat,3571.67,4,0.23,11000.74,2023-04-06,2023,4,Q2,COD,Delivered,4.0
+ORD-10223,CUST0158,Mumbai,Sports,Running Shoes,3623.8,2,0.0,7247.6,2022-04-28,2022,4,Q2,UPI,Pending,
+ORD-10224,CUST0178,Chennai,Clothing,T-Shirt,454.55,4,0.15,1545.47,2022-01-29,2022,1,Q1,COD,Delivered,4.3
+ORD-10225,CUST0129,Ahmedabad,Clothing,T-Shirt,763.2,4,0.03,2961.22,2023-10-05,2023,10,Q4,Wallet,Delivered,2.6
+ORD-10226,CUST0005,Chennai,Automotive,Dash Cam,7069.74,3,0.08,19512.48,2024-03-31,2024,3,Q1,COD,Delivered,3.0
+ORD-10227,CUST0140,Kolkata,Beauty,Moisturizer,254.54,4,0.0,1018.16,2022-05-08,2022,5,Q2,Net Banking,Delivered,2.9
+ORD-10228,CUST0004,Bangalore,Electronics,Earphones,2108.86,4,0.28,6073.52,2024-05-09,2024,5,Q2,Net Banking,Delivered,3.3
+ORD-10229,CUST0031,Kolkata,Sports,Yoga Mat,1247.16,3,0.3,2619.04,2022-11-07,2022,11,Q4,COD,Delivered,4.3
+ORD-10230,CUST0123,Ahmedabad,Books,Self Help,473.38,3,0.17,1178.72,2022-12-16,2022,12,Q4,Debit Card,Cancelled,
+ORD-10231,CUST0135,Bangalore,Sports,Dumbbells,2851.11,4,0.14,9807.82,2023-11-04,2023,11,Q4,Net Banking,Delivered,4.8
+ORD-10232,CUST0184,Ahmedabad,Automotive,Tyre Inflator,1046.61,1,0.01,1036.14,2024-10-10,2024,10,Q4,Wallet,Returned,
+ORD-10233,CUST0041,Chennai,Toys,RC Car,699.4,1,0.26,517.56,2023-04-12,2023,4,Q2,UPI,Cancelled,
+ORD-10234,CUST0093,Hyderabad,Sports,Dumbbells,1526.0,3,0.19,3708.18,2023-09-26,2023,9,Q3,COD,Delivered,3.3
+ORD-10235,CUST0097,Chennai,Books,Fiction Novel,595.34,4,0.15,2024.16,2024-03-28,2024,3,Q1,Wallet,Delivered,2.9
+ORD-10236,CUST0153,Pune,Clothing,Jacket,2537.89,3,0.01,7537.53,2024-03-06,2024,3,Q1,UPI,Delivered,3.6
+ORD-10237,CUST0032,Chennai,Books,Textbook,824.67,3,0.07,2300.83,2024-01-26,2024,1,Q1,Debit Card,Delivered,3.1
+ORD-10238,CUST0072,Bangalore,Electronics,Smartwatch,9948.19,4,0.13,34619.7,2024-07-31,2024,7,Q3,COD,Delivered,4.8
+ORD-10239,CUST0033,Pune,Automotive,Seat Cushion,569.92,1,0.18,467.33,2024-04-14,2024,4,Q2,COD,Delivered,2.8
+ORD-10240,CUST0002,Kolkata,Sports,Dumbbells,2195.35,4,0.17,7288.56,2022-01-26,2022,1,Q1,COD,Delivered,4.3
+ORD-10241,CUST0085,Pune,Sports,Running Shoes,5424.87,4,0.06,20397.51,2023-05-08,2023,5,Q2,Credit Card,Delivered,4.7
+ORD-10242,CUST0154,Kolkata,Clothing,T-Shirt,866.19,4,0.26,2563.92,2022-11-16,2022,11,Q4,Wallet,Returned,
+ORD-10243,CUST0200,Ahmedabad,Books,Textbook,1149.76,1,0.21,908.31,2023-11-26,2023,11,Q4,COD,Returned,
+ORD-10244,CUST0177,Hyderabad,Clothing,Jeans,2327.44,2,0.24,3537.71,2024-04-16,2024,4,Q2,COD,Returned,
+ORD-10245,CUST0154,Kolkata,Automotive,Seat Cushion,1002.34,1,0.06,942.2,2024-11-27,2024,11,Q4,Net Banking,Delivered,3.1
+ORD-10246,CUST0094,Mumbai,Books,Fiction Novel,384.59,4,0.02,1507.59,2023-03-03,2023,3,Q1,Credit Card,Returned,
+ORD-10247,CUST0178,Chennai,Toys,Board Game,1108.78,2,0.17,1840.57,2024-10-11,2024,10,Q4,COD,Cancelled,
+ORD-10248,CUST0001,Kolkata,Books,Self Help,210.16,2,0.03,407.71,2023-04-27,2023,4,Q2,Net Banking,Delivered,3.9
+ORD-10249,CUST0086,Ahmedabad,Beauty,Moisturizer,293.1,2,0.16,492.41,2023-08-26,2023,8,Q3,Debit Card,Delivered,3.8
+ORD-10250,CUST0172,Mumbai,Books,Comic,128.4,3,0.0,385.2,2024-11-09,2024,11,Q4,Debit Card,Cancelled,
+ORD-10251,CUST0072,Bangalore,Automotive,Dash Cam,2111.85,1,0.15,1795.07,2022-08-07,2022,8,Q3,UPI,Returned,
+ORD-10252,CUST0198,Bangalore,Home & Kitchen,Bedsheet,947.41,1,0.12,833.72,2022-12-15,2022,12,Q4,Wallet,Delivered,4.5
+ORD-10253,CUST0022,Pune,Electronics,Laptop,80595.19,3,0.22,188592.74,2023-01-23,2023,1,Q1,UPI,Delivered,2.8
+ORD-10254,CUST0177,Hyderabad,Home & Kitchen,Mixer,3678.04,3,0.24,8385.93,2022-12-12,2022,12,Q4,COD,Delivered,3.7
+ORD-10255,CUST0149,Hyderabad,Books,Fiction Novel,424.62,2,0.18,696.38,2022-12-15,2022,12,Q4,Net Banking,Returned,
+ORD-10256,CUST0165,Ahmedabad,Books,Textbook,652.02,2,0.23,1004.11,2022-05-10,2022,5,Q2,UPI,Delivered,4.0
+ORD-10257,CUST0045,Bangalore,Electronics,Smartphone,27544.74,2,0.18,45173.37,2023-10-05,2023,10,Q4,Credit Card,Delivered,4.2
+ORD-10258,CUST0135,Bangalore,Toys,Doll,313.17,3,0.12,826.77,2024-06-18,2024,6,Q2,UPI,Pending,
+ORD-10259,CUST0009,Hyderabad,Toys,Board Game,1434.41,4,0.03,5565.51,2022-04-15,2022,4,Q2,Net Banking,Returned,
+ORD-10260,CUST0059,Pune,Automotive,Seat Cushion,736.13,3,0.21,1744.63,2022-05-25,2022,5,Q2,Debit Card,Returned,
+ORD-10261,CUST0148,Bangalore,Electronics,Earphones,2647.29,4,0.22,8259.54,2023-09-30,2023,9,Q3,UPI,Delivered,3.4
+ORD-10262,CUST0042,Bangalore,Sports,Running Shoes,2522.15,4,0.24,7667.34,2022-07-17,2022,7,Q3,Net Banking,Delivered,4.9
+ORD-10263,CUST0181,Kolkata,Electronics,Earphones,4472.26,3,0.22,10465.09,2023-04-18,2023,4,Q2,Wallet,Delivered,2.6
+ORD-10264,CUST0098,Kolkata,Toys,LEGO Set,920.08,2,0.19,1490.53,2024-06-05,2024,6,Q2,Wallet,Delivered,3.6
+ORD-10265,CUST0115,Delhi,Beauty,Lipstick,466.88,4,0.28,1344.61,2022-04-09,2022,4,Q2,Net Banking,Returned,
+ORD-10266,CUST0146,Hyderabad,Electronics,Laptop,63901.89,3,0.17,159115.71,2023-11-03,2023,11,Q4,Credit Card,Cancelled,
+ORD-10267,CUST0038,Mumbai,Sports,Running Shoes,3275.4,2,0.28,4716.58,2023-06-13,2023,6,Q2,UPI,Delivered,4.4
+ORD-10268,CUST0032,Chennai,Clothing,T-Shirt,423.0,3,0.22,989.82,2024-10-23,2024,10,Q4,Credit Card,Delivered,3.6
+ORD-10269,CUST0101,Kolkata,Clothing,T-Shirt,357.53,2,0.01,707.91,2023-10-02,2023,10,Q4,Debit Card,Delivered,2.8
+ORD-10270,CUST0071,Mumbai,Clothing,Jacket,3702.08,1,0.03,3591.02,2022-04-29,2022,4,Q2,Debit Card,Cancelled,
+ORD-10271,CUST0013,Chennai,Books,Textbook,828.69,1,0.1,745.82,2024-04-19,2024,4,Q2,Net Banking,Delivered,3.7
+ORD-10272,CUST0137,Kolkata,Toys,RC Car,1289.09,3,0.03,3751.25,2023-07-11,2023,7,Q3,UPI,Delivered,3.7
+ORD-10273,CUST0171,Delhi,Clothing,T-Shirt,700.7,2,0.21,1107.11,2024-07-07,2024,7,Q3,COD,Delivered,4.3
+ORD-10274,CUST0168,Mumbai,Clothing,Jeans,1929.43,1,0.08,1775.08,2024-05-02,2024,5,Q2,Wallet,Delivered,3.7
+ORD-10275,CUST0156,Delhi,Electronics,Smartwatch,15239.05,4,0.06,57298.83,2023-02-16,2023,2,Q1,Net Banking,Delivered,2.6
+ORD-10276,CUST0149,Hyderabad,Books,Self Help,324.05,1,0.06,304.61,2022-08-24,2022,8,Q3,Debit Card,Delivered,3.4
+ORD-10277,CUST0081,Bangalore,Home & Kitchen,Cookware Set,1337.33,1,0.22,1043.12,2022-10-07,2022,10,Q4,UPI,Pending,
+ORD-10278,CUST0185,Pune,Books,Self Help,366.1,3,0.26,812.74,2023-11-06,2023,11,Q4,Net Banking,Delivered,3.6
+ORD-10279,CUST0014,Kolkata,Books,Fiction Novel,439.62,1,0.06,413.24,2024-03-04,2024,3,Q1,UPI,Delivered,3.8
+ORD-10280,CUST0025,Ahmedabad,Beauty,Lipstick,314.44,1,0.11,279.85,2023-03-18,2023,3,Q1,UPI,Returned,
+ORD-10281,CUST0198,Bangalore,Books,Textbook,1101.83,4,0.07,4098.81,2023-06-12,2023,6,Q2,Wallet,Delivered,4.8
+ORD-10282,CUST0073,Bangalore,Beauty,Lipstick,467.26,2,0.19,756.96,2024-05-17,2024,5,Q2,UPI,Delivered,3.2
+ORD-10283,CUST0145,Pune,Books,Comic,166.41,1,0.14,143.11,2023-12-31,2023,12,Q4,Net Banking,Delivered,3.1
+ORD-10284,CUST0003,Chennai,Home & Kitchen,Bedsheet,454.88,2,0.06,855.17,2024-08-19,2024,8,Q3,UPI,Delivered,4.9
+ORD-10285,CUST0035,Ahmedabad,Toys,Board Game,989.36,3,0.27,2166.7,2022-10-18,2022,10,Q4,Debit Card,Delivered,4.3
+ORD-10286,CUST0116,Pune,Electronics,Smartwatch,18556.11,1,0.03,17999.43,2023-12-16,2023,12,Q4,COD,Delivered,4.5
+ORD-10287,CUST0157,Chennai,Toys,RC Car,1653.0,2,0.19,2677.86,2024-06-23,2024,6,Q2,Net Banking,Delivered,4.3
+ORD-10288,CUST0118,Chennai,Clothing,Jacket,4353.18,4,0.19,14104.3,2023-01-19,2023,1,Q1,Net Banking,Delivered,3.2
+ORD-10289,CUST0059,Pune,Sports,Cricket Bat,1864.32,2,0.05,3542.21,2024-05-23,2024,5,Q2,COD,Cancelled,
+ORD-10290,CUST0057,Mumbai,Electronics,Smartwatch,8113.4,1,0.27,5922.78,2023-02-06,2023,2,Q1,Wallet,Returned,
+ORD-10291,CUST0088,Hyderabad,Books,Textbook,1077.58,2,0.24,1637.92,2023-01-01,2023,1,Q1,Debit Card,Cancelled,
+ORD-10292,CUST0069,Pune,Electronics,Laptop,68449.82,3,0.13,178654.03,2023-09-14,2023,9,Q3,Credit Card,Delivered,4.0
+ORD-10293,CUST0138,Ahmedabad,Toys,Doll,935.47,1,0.01,926.12,2023-04-05,2023,4,Q2,Wallet,Returned,
+ORD-10294,CUST0082,Kolkata,Home & Kitchen,Cookware Set,2342.1,1,0.15,1990.78,2024-01-17,2024,1,Q1,Net Banking,Delivered,4.3
+ORD-10295,CUST0189,Kolkata,Sports,Dumbbells,2885.52,2,0.02,5655.62,2023-08-01,2023,8,Q3,Credit Card,Cancelled,
+ORD-10296,CUST0080,Bangalore,Beauty,Serum,2758.96,4,0.22,8607.96,2024-01-13,2024,1,Q1,Debit Card,Cancelled,
+ORD-10297,CUST0116,Pune,Beauty,Moisturizer,1360.94,2,0.23,2095.85,2024-08-05,2024,8,Q3,Debit Card,Delivered,4.2
+ORD-10298,CUST0057,Mumbai,Home & Kitchen,Air Purifier,12020.88,2,0.02,23560.92,2022-02-16,2022,2,Q1,COD,Delivered,3.5
+ORD-10299,CUST0171,Delhi,Books,Self Help,360.5,4,0.17,1196.86,2024-07-06,2024,7,Q3,Debit Card,Delivered,4.9
+ORD-10300,CUST0036,Chennai,Electronics,Laptop,64514.34,4,0.15,219348.76,2022-11-12,2022,11,Q4,COD,Delivered,2.9
+ORD-10301,CUST0161,Ahmedabad,Books,Textbook,908.75,1,0.18,745.18,2022-11-04,2022,11,Q4,UPI,Delivered,3.9
+ORD-10302,CUST0197,Kolkata,Beauty,Lipstick,488.29,2,0.26,722.67,2024-02-17,2024,2,Q1,Credit Card,Delivered,4.7
+ORD-10303,CUST0186,Bangalore,Toys,RC Car,662.35,3,0.19,1609.51,2023-03-25,2023,3,Q1,Debit Card,Delivered,4.1
+ORD-10304,CUST0092,Delhi,Automotive,Seat Cushion,939.72,3,0.12,2480.86,2023-06-10,2023,6,Q2,Wallet,Delivered,2.7
+ORD-10305,CUST0077,Delhi,Clothing,Dress,2125.24,1,0.0,2125.24,2022-07-30,2022,7,Q3,Debit Card,Delivered,3.1
+ORD-10306,CUST0186,Bangalore,Electronics,Smartphone,29211.1,1,0.02,28626.88,2024-10-30,2024,10,Q4,Net Banking,Delivered,4.5
+ORD-10307,CUST0142,Chennai,Beauty,Lipstick,722.17,3,0.06,2036.52,2023-10-02,2023,10,Q4,Debit Card,Cancelled,
+ORD-10308,CUST0162,Chennai,Beauty,Perfume,3988.82,1,0.0,3988.82,2023-02-18,2023,2,Q1,Credit Card,Delivered,3.4
+ORD-10309,CUST0186,Bangalore,Beauty,Perfume,2931.79,4,0.08,10788.99,2024-08-19,2024,8,Q3,Net Banking,Delivered,4.9
+ORD-10310,CUST0162,Chennai,Books,Self Help,448.24,3,0.14,1156.46,2022-05-04,2022,5,Q2,UPI,Delivered,3.1
+ORD-10311,CUST0019,Bangalore,Clothing,T-Shirt,1055.77,3,0.11,2818.91,2022-02-08,2022,2,Q1,Wallet,Delivered,4.6
+ORD-10312,CUST0167,Chennai,Automotive,Tyre Inflator,1484.62,2,0.29,2108.16,2024-03-13,2024,3,Q1,Net Banking,Delivered,4.2
+ORD-10313,CUST0192,Pune,Books,Fiction Novel,222.83,2,0.3,311.96,2024-03-12,2024,3,Q1,Debit Card,Delivered,2.7
+ORD-10314,CUST0037,Ahmedabad,Beauty,Lipstick,571.68,1,0.22,445.91,2023-04-28,2023,4,Q2,Wallet,Delivered,4.6
+ORD-10315,CUST0128,Pune,Beauty,Lipstick,526.53,3,0.14,1358.45,2024-12-31,2024,12,Q4,UPI,Delivered,2.9
+ORD-10316,CUST0063,Mumbai,Electronics,Smartwatch,8523.83,4,0.17,28299.12,2024-01-27,2024,1,Q1,UPI,Delivered,3.6
+ORD-10317,CUST0097,Chennai,Home & Kitchen,Mixer,1694.87,2,0.14,2915.18,2023-04-06,2023,4,Q2,Debit Card,Delivered,4.7
+ORD-10318,CUST0163,Hyderabad,Electronics,Laptop,81138.94,3,0.05,231245.98,2024-10-25,2024,10,Q4,UPI,Delivered,4.6
+ORD-10319,CUST0140,Kolkata,Sports,Running Shoes,5526.45,3,0.2,13263.48,2024-01-09,2024,1,Q1,Debit Card,Pending,
+ORD-10320,CUST0065,Ahmedabad,Books,Textbook,458.39,1,0.28,330.04,2023-09-01,2023,9,Q3,UPI,Delivered,3.5
+ORD-10321,CUST0047,Delhi,Home & Kitchen,Bedsheet,935.35,4,0.19,3030.53,2024-08-17,2024,8,Q3,Net Banking,Delivered,4.3
+ORD-10322,CUST0107,Mumbai,Sports,Cricket Bat,2603.89,2,0.06,4895.31,2022-11-23,2022,11,Q4,Wallet,Returned,
+ORD-10323,CUST0124,Kolkata,Sports,Cricket Bat,1963.43,3,0.03,5713.58,2022-09-16,2022,9,Q3,Net Banking,Delivered,4.9
+ORD-10324,CUST0143,Pune,Clothing,Jeans,1450.92,4,0.07,5397.42,2024-09-09,2024,9,Q3,Wallet,Cancelled,
+ORD-10325,CUST0155,Mumbai,Automotive,Dash Cam,5775.11,3,0.1,15592.8,2024-04-25,2024,4,Q2,COD,Delivered,3.5
+ORD-10326,CUST0117,Chennai,Home & Kitchen,Air Purifier,8444.31,1,0.03,8190.98,2024-04-30,2024,4,Q2,Credit Card,Delivered,3.5
+ORD-10327,CUST0108,Pune,Electronics,Laptop,87937.81,2,0.0,175875.62,2024-01-09,2024,1,Q1,Wallet,Delivered,4.9
+ORD-10328,CUST0187,Bangalore,Electronics,Earphones,886.91,4,0.1,3192.88,2022-05-19,2022,5,Q2,Wallet,Delivered,5.0
+ORD-10329,CUST0020,Ahmedabad,Books,Textbook,603.97,4,0.11,2150.13,2023-09-06,2023,9,Q3,Credit Card,Cancelled,
+ORD-10330,CUST0115,Delhi,Beauty,Lipstick,394.41,2,0.13,686.27,2022-05-04,2022,5,Q2,COD,Cancelled,
+ORD-10331,CUST0124,Kolkata,Books,Textbook,1087.72,4,0.08,4002.81,2023-11-26,2023,11,Q4,Wallet,Delivered,4.9
+ORD-10332,CUST0099,Kolkata,Sports,Yoga Mat,1325.83,2,0.06,2492.56,2024-08-05,2024,8,Q3,Debit Card,Delivered,4.5
+ORD-10333,CUST0174,Kolkata,Books,Comic,183.74,1,0.03,178.23,2022-07-26,2022,7,Q3,Debit Card,Delivered,4.4
+ORD-10334,CUST0038,Mumbai,Automotive,Car Covers,1266.07,2,0.0,2532.14,2022-04-21,2022,4,Q2,Credit Card,Delivered,2.8
+ORD-10335,CUST0049,Bangalore,Clothing,Dress,3466.16,4,0.16,11646.3,2022-06-26,2022,6,Q2,UPI,Delivered,2.6
+ORD-10336,CUST0127,Hyderabad,Electronics,Earphones,1601.03,4,0.13,5571.58,2022-05-17,2022,5,Q2,COD,Returned,
+ORD-10337,CUST0091,Bangalore,Home & Kitchen,Bedsheet,1481.91,4,0.29,4208.62,2023-03-24,2023,3,Q1,COD,Delivered,4.7
+ORD-10338,CUST0170,Hyderabad,Books,Textbook,510.89,4,0.23,1573.54,2024-03-13,2024,3,Q1,UPI,Delivered,4.0
+ORD-10339,CUST0168,Mumbai,Electronics,Earphones,1927.57,3,0.15,4915.3,2024-12-20,2024,12,Q4,Debit Card,Delivered,3.0
+ORD-10340,CUST0076,Delhi,Home & Kitchen,Mixer,2999.97,3,0.27,6569.93,2023-04-07,2023,4,Q2,Debit Card,Delivered,3.1
+ORD-10341,CUST0094,Mumbai,Home & Kitchen,Air Purifier,6985.88,3,0.04,20119.33,2023-04-26,2023,4,Q2,Wallet,Delivered,4.9
+ORD-10342,CUST0189,Kolkata,Sports,Dumbbells,1368.55,4,0.16,4598.33,2022-07-23,2022,7,Q3,Net Banking,Delivered,3.4
+ORD-10343,CUST0146,Hyderabad,Sports,Dumbbells,2147.18,2,0.03,4165.53,2024-02-14,2024,2,Q1,Credit Card,Returned,
+ORD-10344,CUST0055,Bangalore,Beauty,Serum,630.62,3,0.24,1437.81,2023-06-14,2023,6,Q2,Debit Card,Delivered,3.4
+ORD-10345,CUST0148,Bangalore,Home & Kitchen,Bedsheet,630.97,3,0.07,1760.41,2023-08-03,2023,8,Q3,Debit Card,Delivered,4.8
+ORD-10346,CUST0165,Ahmedabad,Electronics,Laptop,83086.7,2,0.08,152879.53,2022-05-26,2022,5,Q2,Net Banking,Delivered,3.2
+ORD-10347,CUST0185,Pune,Toys,LEGO Set,2242.43,4,0.19,7265.47,2024-02-13,2024,2,Q1,Wallet,Delivered,3.2
+ORD-10348,CUST0086,Ahmedabad,Automotive,Car Covers,887.62,2,0.04,1704.23,2022-07-25,2022,7,Q3,Net Banking,Cancelled,
+ORD-10349,CUST0045,Bangalore,Electronics,Earphones,1592.76,3,0.05,4539.37,2022-10-17,2022,10,Q4,Debit Card,Delivered,5.0
+ORD-10350,CUST0080,Bangalore,Clothing,Dress,1681.16,3,0.1,4539.13,2022-08-21,2022,8,Q3,Debit Card,Delivered,2.5
+ORD-10351,CUST0086,Ahmedabad,Home & Kitchen,Bedsheet,721.67,1,0.11,642.29,2023-12-18,2023,12,Q4,UPI,Delivered,3.4
+ORD-10352,CUST0054,Delhi,Sports,Yoga Mat,1194.91,4,0.08,4397.27,2022-08-24,2022,8,Q3,UPI,Delivered,3.7
+ORD-10353,CUST0050,Ahmedabad,Sports,Yoga Mat,1441.54,3,0.28,3113.73,2023-11-21,2023,11,Q4,UPI,Delivered,2.7
+ORD-10354,CUST0084,Chennai,Home & Kitchen,Bedsheet,861.08,2,0.14,1481.06,2024-01-21,2024,1,Q1,Wallet,Delivered,3.3
+ORD-10355,CUST0138,Ahmedabad,Electronics,Smartwatch,17792.17,3,0.12,46971.33,2024-08-02,2024,8,Q3,Credit Card,Cancelled,
+ORD-10356,CUST0030,Mumbai,Electronics,Earphones,1463.88,4,0.09,5328.52,2023-08-15,2023,8,Q3,UPI,Pending,
+ORD-10357,CUST0135,Bangalore,Electronics,Laptop,55284.23,4,0.26,163641.32,2023-04-09,2023,4,Q2,Wallet,Delivered,3.9
+ORD-10358,CUST0142,Chennai,Sports,Cricket Bat,1978.88,1,0.05,1879.94,2023-01-01,2023,1,Q1,Net Banking,Delivered,3.6
+ORD-10359,CUST0077,Delhi,Automotive,Seat Cushion,1049.18,2,0.04,2014.43,2023-07-16,2023,7,Q3,Debit Card,Cancelled,
+ORD-10360,CUST0199,Ahmedabad,Electronics,Laptop,49914.23,4,0.15,169708.38,2023-09-16,2023,9,Q3,Wallet,Returned,
+ORD-10361,CUST0157,Chennai,Books,Fiction Novel,375.47,4,0.02,1471.84,2023-10-18,2023,10,Q4,Debit Card,Returned,
+ORD-10362,CUST0083,Bangalore,Electronics,Smartwatch,10911.86,2,0.06,20514.3,2022-06-27,2022,6,Q2,Wallet,Delivered,3.8
+ORD-10363,CUST0073,Bangalore,Toys,Board Game,1898.94,1,0.05,1803.99,2023-08-14,2023,8,Q3,UPI,Cancelled,
+ORD-10364,CUST0043,Ahmedabad,Toys,Board Game,527.22,4,0.04,2024.52,2024-11-10,2024,11,Q4,Credit Card,Delivered,4.4
+ORD-10365,CUST0039,Pune,Automotive,Seat Cushion,788.6,3,0.25,1774.35,2022-09-21,2022,9,Q3,Wallet,Delivered,3.4
+ORD-10366,CUST0017,Kolkata,Toys,RC Car,2635.93,4,0.3,7380.6,2023-06-08,2023,6,Q2,Credit Card,Returned,
+ORD-10367,CUST0065,Ahmedabad,Beauty,Lipstick,603.77,2,0.1,1086.79,2023-02-03,2023,2,Q1,Credit Card,Cancelled,
+ORD-10368,CUST0027,Kolkata,Toys,RC Car,650.69,3,0.11,1737.34,2024-02-29,2024,2,Q1,Wallet,Delivered,3.0
+ORD-10369,CUST0185,Pune,Beauty,Lipstick,769.5,3,0.2,1846.8,2023-02-10,2023,2,Q1,UPI,Delivered,3.6
+ORD-10370,CUST0188,Ahmedabad,Beauty,Perfume,2888.66,4,0.09,10514.72,2022-07-30,2022,7,Q3,Wallet,Delivered,3.2
+ORD-10371,CUST0100,Pune,Toys,RC Car,934.8,2,0.05,1776.12,2024-02-16,2024,2,Q1,Debit Card,Pending,
+ORD-10372,CUST0033,Pune,Toys,LEGO Set,2224.71,4,0.22,6941.1,2022-05-22,2022,5,Q2,UPI,Delivered,3.4
+ORD-10373,CUST0065,Ahmedabad,Automotive,Seat Cushion,1396.0,4,0.25,4188.0,2024-01-16,2024,1,Q1,Debit Card,Delivered,4.2
+ORD-10374,CUST0147,Chennai,Beauty,Moisturizer,405.33,1,0.24,308.05,2023-07-21,2023,7,Q3,Net Banking,Pending,
+ORD-10375,CUST0012,Ahmedabad,Beauty,Lipstick,282.99,4,0.04,1086.68,2024-07-10,2024,7,Q3,UPI,Returned,
+ORD-10376,CUST0042,Bangalore,Home & Kitchen,Mixer,1911.14,3,0.12,5045.41,2023-04-06,2023,4,Q2,Debit Card,Delivered,2.7
+ORD-10377,CUST0020,Ahmedabad,Home & Kitchen,Bedsheet,1131.09,3,0.05,3223.61,2024-06-27,2024,6,Q2,COD,Pending,
+ORD-10378,CUST0190,Kolkata,Sports,Dumbbells,2966.46,4,0.22,9255.36,2023-07-11,2023,7,Q3,Credit Card,Cancelled,
+ORD-10379,CUST0112,Hyderabad,Books,Self Help,348.64,1,0.06,327.72,2024-04-27,2024,4,Q2,Credit Card,Delivered,3.4
+ORD-10380,CUST0172,Mumbai,Sports,Yoga Mat,1224.77,3,0.26,2718.99,2023-08-10,2023,8,Q3,Debit Card,Returned,
+ORD-10381,CUST0183,Hyderabad,Toys,RC Car,813.31,4,0.14,2797.79,2022-10-15,2022,10,Q4,Debit Card,Delivered,4.8
+ORD-10382,CUST0067,Kolkata,Clothing,T-Shirt,1126.42,1,0.1,1013.78,2024-08-07,2024,8,Q3,Net Banking,Delivered,3.8
+ORD-10383,CUST0088,Hyderabad,Toys,LEGO Set,1335.66,1,0.29,948.32,2022-03-13,2022,3,Q1,Debit Card,Delivered,2.8
+ORD-10384,CUST0155,Mumbai,Home & Kitchen,Air Purifier,5879.99,3,0.28,12700.78,2022-07-24,2022,7,Q3,Credit Card,Delivered,4.8
+ORD-10385,CUST0047,Delhi,Sports,Dumbbells,1099.65,1,0.02,1077.66,2024-05-27,2024,5,Q2,Wallet,Pending,
+ORD-10386,CUST0052,Delhi,Clothing,T-Shirt,706.4,2,0.16,1186.75,2024-04-23,2024,4,Q2,Debit Card,Delivered,4.7
+ORD-10387,CUST0174,Kolkata,Sports,Yoga Mat,422.43,2,0.28,608.3,2022-01-05,2022,1,Q1,COD,Delivered,2.7
+ORD-10388,CUST0178,Chennai,Electronics,Earphones,1017.97,3,0.04,2931.75,2024-11-22,2024,11,Q4,COD,Delivered,4.8
+ORD-10389,CUST0135,Bangalore,Sports,Dumbbells,738.06,2,0.12,1298.99,2022-02-19,2022,2,Q1,Wallet,Delivered,4.3
+ORD-10390,CUST0162,Chennai,Beauty,Perfume,1694.55,4,0.28,4880.3,2023-11-19,2023,11,Q4,Net Banking,Delivered,3.4
+ORD-10391,CUST0094,Mumbai,Clothing,Jacket,4540.88,3,0.1,12260.38,2023-03-09,2023,3,Q1,COD,Delivered,4.4
+ORD-10392,CUST0002,Kolkata,Home & Kitchen,Cookware Set,852.53,3,0.22,1994.92,2023-04-16,2023,4,Q2,COD,Returned,
+ORD-10393,CUST0193,Hyderabad,Clothing,Jeans,1934.11,4,0.1,6962.8,2022-12-05,2022,12,Q4,UPI,Delivered,4.6
+ORD-10394,CUST0047,Delhi,Toys,Board Game,1247.35,3,0.11,3330.42,2023-01-03,2023,1,Q1,COD,Delivered,3.3
+ORD-10395,CUST0053,Kolkata,Home & Kitchen,Cookware Set,2345.29,4,0.05,8912.1,2022-07-29,2022,7,Q3,UPI,Delivered,4.2
+ORD-10396,CUST0057,Mumbai,Toys,RC Car,1654.77,1,0.11,1472.75,2022-04-30,2022,4,Q2,Net Banking,Delivered,2.7
+ORD-10397,CUST0059,Pune,Electronics,Earphones,1580.64,2,0.12,2781.93,2024-01-20,2024,1,Q1,COD,Delivered,3.4
+ORD-10398,CUST0043,Ahmedabad,Clothing,T-Shirt,583.15,3,0.16,1469.54,2024-06-12,2024,6,Q2,Credit Card,Delivered,3.1
+ORD-10399,CUST0088,Hyderabad,Beauty,Moisturizer,1019.23,2,0.3,1426.92,2024-10-03,2024,10,Q4,Net Banking,Delivered,3.4
+ORD-10400,CUST0114,Hyderabad,Sports,Running Shoes,1506.07,2,0.14,2590.44,2022-07-26,2022,7,Q3,UPI,Delivered,4.8
+ORD-10401,CUST0185,Pune,Automotive,Seat Cushion,802.24,1,0.1,722.02,2023-11-05,2023,11,Q4,Debit Card,Cancelled,
+ORD-10402,CUST0081,Bangalore,Books,Fiction Novel,544.15,4,0.06,2046.0,2024-04-15,2024,4,Q2,Net Banking,Returned,
+ORD-10403,CUST0122,Delhi,Home & Kitchen,Air Purifier,9596.15,3,0.04,27636.91,2022-11-27,2022,11,Q4,COD,Delivered,4.7
+ORD-10404,CUST0168,Mumbai,Automotive,Seat Cushion,1404.22,1,0.3,982.95,2023-05-09,2023,5,Q2,UPI,Delivered,3.9
+ORD-10405,CUST0180,Kolkata,Sports,Dumbbells,1602.74,1,0.19,1298.22,2023-09-24,2023,9,Q3,Net Banking,Delivered,4.4
+ORD-10406,CUST0028,Mumbai,Clothing,Dress,1834.06,1,0.13,1595.63,2023-12-31,2023,12,Q4,Debit Card,Delivered,3.3
+ORD-10407,CUST0166,Hyderabad,Beauty,Lipstick,312.21,1,0.19,252.89,2022-01-09,2022,1,Q1,UPI,Delivered,4.5
+ORD-10408,CUST0037,Ahmedabad,Sports,Cricket Bat,4958.64,4,0.22,15470.96,2022-11-12,2022,11,Q4,COD,Delivered,3.0
+ORD-10409,CUST0066,Hyderabad,Automotive,Dash Cam,3419.2,3,0.01,10155.02,2023-11-12,2023,11,Q4,Wallet,Delivered,4.5
+ORD-10410,CUST0148,Bangalore,Beauty,Lipstick,715.87,1,0.09,651.44,2022-09-23,2022,9,Q3,Credit Card,Delivered,4.7
+ORD-10411,CUST0045,Bangalore,Beauty,Moisturizer,294.63,1,0.2,235.7,2023-07-14,2023,7,Q3,Wallet,Cancelled,
+ORD-10412,CUST0121,Ahmedabad,Beauty,Perfume,2566.89,3,0.1,6930.6,2023-02-04,2023,2,Q1,Wallet,Delivered,4.1
+ORD-10413,CUST0025,Ahmedabad,Toys,LEGO Set,2007.52,3,0.11,5360.08,2022-03-22,2022,3,Q1,Wallet,Delivered,4.4
+ORD-10414,CUST0191,Bangalore,Home & Kitchen,Air Purifier,14819.15,1,0.21,11707.13,2022-06-29,2022,6,Q2,Net Banking,Delivered,3.6
+ORD-10415,CUST0103,Kolkata,Beauty,Lipstick,398.07,3,0.26,883.72,2023-06-01,2023,6,Q2,UPI,Returned,
+ORD-10416,CUST0141,Pune,Clothing,Jacket,2406.27,2,0.11,4283.16,2024-12-03,2024,12,Q4,Debit Card,Delivered,4.8
+ORD-10417,CUST0185,Pune,Books,Textbook,915.74,1,0.18,750.91,2023-08-23,2023,8,Q3,Debit Card,Delivered,4.2
+ORD-10418,CUST0060,Bangalore,Beauty,Perfume,2202.12,3,0.25,4954.77,2023-08-22,2023,8,Q3,Debit Card,Cancelled,
+ORD-10419,CUST0107,Mumbai,Electronics,Smartwatch,13727.52,2,0.29,19493.08,2024-05-25,2024,5,Q2,Debit Card,Delivered,2.9
+ORD-10420,CUST0059,Pune,Home & Kitchen,Air Purifier,13422.91,1,0.15,11409.47,2023-11-22,2023,11,Q4,COD,Delivered,4.6
+ORD-10421,CUST0079,Hyderabad,Electronics,Smartwatch,7759.81,1,0.25,5819.86,2023-07-12,2023,7,Q3,Credit Card,Returned,
+ORD-10422,CUST0174,Kolkata,Home & Kitchen,Bedsheet,974.4,1,0.1,876.96,2024-06-10,2024,6,Q2,COD,Delivered,4.9
+ORD-10423,CUST0001,Kolkata,Electronics,Laptop,71981.08,3,0.24,164116.86,2024-01-21,2024,1,Q1,Net Banking,Delivered,2.6
+ORD-10424,CUST0110,Ahmedabad,Beauty,Serum,570.3,2,0.19,923.89,2022-10-14,2022,10,Q4,Debit Card,Delivered,4.0
+ORD-10425,CUST0108,Pune,Clothing,Dress,2113.13,4,0.04,8114.42,2022-11-03,2022,11,Q4,Debit Card,Delivered,4.2
+ORD-10426,CUST0025,Ahmedabad,Books,Self Help,222.59,3,0.14,574.28,2024-03-10,2024,3,Q1,Wallet,Returned,
+ORD-10427,CUST0060,Bangalore,Electronics,Laptop,84183.69,2,0.08,154897.99,2024-04-11,2024,4,Q2,UPI,Cancelled,
+ORD-10428,CUST0015,Chennai,Home & Kitchen,Air Purifier,6968.0,4,0.13,24248.64,2022-07-05,2022,7,Q3,Credit Card,Delivered,3.8
+ORD-10429,CUST0042,Bangalore,Sports,Yoga Mat,1086.84,4,0.07,4043.04,2022-07-24,2022,7,Q3,Credit Card,Pending,
+ORD-10430,CUST0067,Kolkata,Home & Kitchen,Air Purifier,10317.28,3,0.14,26618.58,2023-09-08,2023,9,Q3,Net Banking,Delivered,3.7
+ORD-10431,CUST0070,Ahmedabad,Books,Self Help,304.14,3,0.09,830.3,2023-05-09,2023,5,Q2,UPI,Delivered,3.8
+ORD-10432,CUST0047,Delhi,Beauty,Lipstick,568.19,3,0.03,1653.43,2022-11-27,2022,11,Q4,Wallet,Delivered,3.2
+ORD-10433,CUST0185,Pune,Home & Kitchen,Cookware Set,1583.06,4,0.11,5635.69,2023-01-06,2023,1,Q1,Net Banking,Cancelled,
+ORD-10434,CUST0014,Kolkata,Electronics,Smartwatch,7538.54,4,0.19,24424.87,2023-10-22,2023,10,Q4,Wallet,Delivered,4.1
+ORD-10435,CUST0038,Mumbai,Toys,LEGO Set,3439.29,1,0.15,2923.4,2023-11-04,2023,11,Q4,Net Banking,Delivered,3.1
+ORD-10436,CUST0143,Pune,Toys,Board Game,1087.36,4,0.05,4131.97,2024-11-20,2024,11,Q4,Credit Card,Cancelled,
+ORD-10437,CUST0094,Mumbai,Electronics,Smartphone,37395.87,1,0.14,32160.45,2024-12-05,2024,12,Q4,Net Banking,Delivered,4.0
+ORD-10438,CUST0197,Kolkata,Automotive,Dash Cam,6612.24,2,0.26,9786.12,2022-02-10,2022,2,Q1,UPI,Delivered,2.7
+ORD-10439,CUST0020,Ahmedabad,Toys,RC Car,980.16,4,0.07,3646.2,2022-05-10,2022,5,Q2,UPI,Delivered,3.5
+ORD-10440,CUST0126,Delhi,Clothing,Jeans,2206.21,2,0.09,4015.3,2024-06-26,2024,6,Q2,Debit Card,Delivered,4.2
+ORD-10441,CUST0149,Hyderabad,Toys,Board Game,919.68,4,0.04,3531.57,2024-11-04,2024,11,Q4,Debit Card,Cancelled,
+ORD-10442,CUST0139,Chennai,Automotive,Seat Cushion,861.46,4,0.27,2515.46,2022-03-20,2022,3,Q1,Wallet,Cancelled,
+ORD-10443,CUST0157,Chennai,Toys,Board Game,579.06,4,0.21,1829.83,2023-06-23,2023,6,Q2,Wallet,Delivered,4.3
+ORD-10444,CUST0067,Kolkata,Home & Kitchen,Cookware Set,3498.07,2,0.12,6156.6,2023-04-07,2023,4,Q2,COD,Delivered,2.5
+ORD-10445,CUST0007,Bangalore,Books,Fiction Novel,209.93,3,0.04,604.6,2022-09-17,2022,9,Q3,Wallet,Delivered,4.6
+ORD-10446,CUST0049,Bangalore,Clothing,Dress,2868.1,1,0.18,2351.84,2022-05-08,2022,5,Q2,Wallet,Delivered,4.2
+ORD-10447,CUST0034,Delhi,Toys,Board Game,1034.81,4,0.03,4015.06,2023-03-02,2023,3,Q1,Wallet,Delivered,2.6
+ORD-10448,CUST0141,Pune,Beauty,Serum,2163.35,3,0.02,6360.25,2023-12-15,2023,12,Q4,Wallet,Delivered,2.8
+ORD-10449,CUST0012,Ahmedabad,Electronics,Earphones,2204.67,4,0.06,8289.56,2024-08-27,2024,8,Q3,Credit Card,Delivered,2.9
+ORD-10450,CUST0012,Ahmedabad,Sports,Dumbbells,1963.33,3,0.22,4594.19,2023-10-25,2023,10,Q4,Credit Card,Delivered,2.7
+ORD-10451,CUST0128,Pune,Automotive,Dash Cam,7107.4,2,0.11,12651.17,2023-07-05,2023,7,Q3,COD,Cancelled,
+ORD-10452,CUST0004,Bangalore,Automotive,Seat Cushion,1055.56,2,0.11,1878.9,2022-04-12,2022,4,Q2,Debit Card,Delivered,2.9
+ORD-10453,CUST0035,Ahmedabad,Books,Comic,113.18,4,0.25,339.54,2022-12-08,2022,12,Q4,Net Banking,Cancelled,
+ORD-10454,CUST0063,Mumbai,Electronics,Smartwatch,16709.72,3,0.11,44614.95,2023-03-27,2023,3,Q1,Debit Card,Delivered,4.7
+ORD-10455,CUST0015,Chennai,Sports,Cricket Bat,4742.33,3,0.27,10385.7,2022-07-10,2022,7,Q3,Net Banking,Delivered,2.6
+ORD-10456,CUST0126,Delhi,Books,Textbook,695.53,2,0.14,1196.31,2022-04-09,2022,4,Q2,Wallet,Returned,
+ORD-10457,CUST0148,Bangalore,Books,Textbook,1158.79,1,0.21,915.44,2023-04-26,2023,4,Q2,Debit Card,Pending,
+ORD-10458,CUST0025,Ahmedabad,Home & Kitchen,Cookware Set,3761.72,1,0.08,3460.78,2024-06-28,2024,6,Q2,UPI,Delivered,4.6
+ORD-10459,CUST0173,Mumbai,Books,Self Help,196.4,1,0.11,174.8,2024-01-07,2024,1,Q1,COD,Delivered,2.7
+ORD-10460,CUST0040,Bangalore,Home & Kitchen,Air Purifier,7632.77,3,0.07,21295.43,2022-03-13,2022,3,Q1,Wallet,Cancelled,
+ORD-10461,CUST0105,Delhi,Toys,Board Game,1378.68,3,0.19,3350.19,2024-10-20,2024,10,Q4,UPI,Delivered,4.1
+ORD-10462,CUST0178,Chennai,Toys,LEGO Set,1862.89,3,0.26,4135.62,2023-11-11,2023,11,Q4,COD,Delivered,4.7
+ORD-10463,CUST0007,Bangalore,Toys,Board Game,1516.0,2,0.07,2819.76,2022-02-12,2022,2,Q1,Net Banking,Returned,
+ORD-10464,CUST0004,Bangalore,Sports,Dumbbells,2991.3,2,0.27,4367.3,2022-09-27,2022,9,Q3,Debit Card,Delivered,3.2
+ORD-10465,CUST0150,Kolkata,Automotive,Tyre Inflator,1335.76,4,0.27,3900.42,2022-02-12,2022,2,Q1,UPI,Pending,
+ORD-10466,CUST0009,Hyderabad,Home & Kitchen,Bedsheet,1086.74,4,0.03,4216.55,2022-03-02,2022,3,Q1,COD,Cancelled,
+ORD-10467,CUST0128,Pune,Toys,LEGO Set,2968.96,4,0.07,11044.53,2023-06-11,2023,6,Q2,Credit Card,Delivered,2.7
+ORD-10468,CUST0193,Hyderabad,Electronics,Earphones,1185.08,4,0.1,4266.29,2024-10-02,2024,10,Q4,UPI,Delivered,4.0
+ORD-10469,CUST0075,Delhi,Clothing,Dress,2763.91,2,0.29,3924.75,2022-10-22,2022,10,Q4,Net Banking,Delivered,2.5
+ORD-10470,CUST0089,Delhi,Books,Comic,207.64,1,0.18,170.26,2022-03-23,2022,3,Q1,Debit Card,Delivered,2.6
+ORD-10471,CUST0102,Kolkata,Home & Kitchen,Bedsheet,1716.76,2,0.17,2849.82,2024-03-27,2024,3,Q1,Credit Card,Delivered,3.7
+ORD-10472,CUST0167,Chennai,Automotive,Tyre Inflator,2832.91,3,0.12,7478.88,2023-02-07,2023,2,Q1,COD,Delivered,4.2
+ORD-10473,CUST0023,Delhi,Clothing,Dress,3830.53,4,0.07,14249.57,2023-10-18,2023,10,Q4,COD,Delivered,2.8
+ORD-10474,CUST0154,Kolkata,Toys,LEGO Set,1363.24,3,0.03,3967.03,2024-11-23,2024,11,Q4,COD,Returned,
+ORD-10475,CUST0089,Delhi,Clothing,Dress,2868.52,2,0.14,4933.85,2023-07-28,2023,7,Q3,COD,Delivered,3.4
+ORD-10476,CUST0020,Ahmedabad,Automotive,Dash Cam,6031.72,4,0.2,19301.5,2023-09-01,2023,9,Q3,Wallet,Returned,
+ORD-10477,CUST0118,Chennai,Toys,LEGO Set,2322.94,1,0.02,2276.48,2023-06-12,2023,6,Q2,Net Banking,Delivered,3.6
+ORD-10478,CUST0018,Chennai,Toys,Doll,566.86,1,0.14,487.5,2023-12-09,2023,12,Q4,COD,Delivered,4.7
+ORD-10479,CUST0165,Ahmedabad,Home & Kitchen,Cookware Set,3973.59,1,0.07,3695.44,2023-10-06,2023,10,Q4,Debit Card,Delivered,5.0
+ORD-10480,CUST0122,Delhi,Automotive,Tyre Inflator,1596.14,4,0.07,5937.64,2023-01-16,2023,1,Q1,Wallet,Delivered,4.8
+ORD-10481,CUST0059,Pune,Books,Textbook,343.57,3,0.18,845.18,2024-02-24,2024,2,Q1,Wallet,Delivered,3.6
+ORD-10482,CUST0146,Hyderabad,Toys,Board Game,758.71,4,0.2,2427.87,2022-11-08,2022,11,Q4,Credit Card,Delivered,4.0
+ORD-10483,CUST0144,Mumbai,Books,Fiction Novel,346.95,1,0.19,281.03,2024-03-08,2024,3,Q1,UPI,Delivered,2.7
+ORD-10484,CUST0184,Ahmedabad,Clothing,Jeans,2379.81,3,0.08,6568.28,2024-10-15,2024,10,Q4,Wallet,Delivered,3.2
+ORD-10485,CUST0060,Bangalore,Beauty,Lipstick,590.84,1,0.2,472.67,2024-06-18,2024,6,Q2,COD,Delivered,4.5
+ORD-10486,CUST0067,Kolkata,Sports,Running Shoes,1939.06,2,0.01,3839.34,2023-04-04,2023,4,Q2,Wallet,Delivered,3.0
+ORD-10487,CUST0121,Ahmedabad,Home & Kitchen,Cookware Set,2991.73,2,0.28,4308.09,2023-05-11,2023,5,Q2,COD,Returned,
+ORD-10488,CUST0132,Kolkata,Sports,Cricket Bat,3827.86,4,0.03,14852.1,2022-08-20,2022,8,Q3,Debit Card,Delivered,4.3
+ORD-10489,CUST0199,Ahmedabad,Clothing,Jacket,2564.9,2,0.18,4206.44,2022-02-02,2022,2,Q1,Wallet,Delivered,3.9
+ORD-10490,CUST0057,Mumbai,Sports,Running Shoes,4968.55,2,0.18,8148.42,2022-02-08,2022,2,Q1,Wallet,Returned,
+ORD-10491,CUST0129,Ahmedabad,Beauty,Lipstick,482.89,2,0.02,946.46,2022-09-19,2022,9,Q3,UPI,Delivered,2.8
+ORD-10492,CUST0019,Bangalore,Home & Kitchen,Mixer,1671.28,3,0.13,4362.04,2022-01-05,2022,1,Q1,UPI,Delivered,3.3
+ORD-10493,CUST0152,Kolkata,Automotive,Seat Cushion,747.26,1,0.22,582.86,2023-05-26,2023,5,Q2,Credit Card,Delivered,4.7
+ORD-10494,CUST0087,Chennai,Automotive,Seat Cushion,486.36,2,0.02,953.27,2022-10-26,2022,10,Q4,Net Banking,Cancelled,
+ORD-10495,CUST0152,Kolkata,Books,Self Help,251.91,1,0.06,236.8,2022-04-29,2022,4,Q2,Net Banking,Delivered,3.1
+ORD-10496,CUST0110,Ahmedabad,Toys,Doll,1491.64,4,0.11,5310.24,2024-06-20,2024,6,Q2,COD,Delivered,5.0
+ORD-10497,CUST0100,Pune,Home & Kitchen,Bedsheet,1960.95,3,0.08,5412.22,2024-03-10,2024,3,Q1,UPI,Delivered,3.0
+ORD-10498,CUST0064,Chennai,Clothing,T-Shirt,809.31,4,0.2,2589.79,2022-01-16,2022,1,Q1,Credit Card,Delivered,3.9
+ORD-10499,CUST0074,Kolkata,Toys,Doll,1452.57,3,0.23,3355.44,2023-10-22,2023,10,Q4,COD,Delivered,5.0
+ORD-10500,CUST0082,Kolkata,Beauty,Serum,2433.66,2,0.24,3699.16,2024-07-09,2024,7,Q3,COD,Pending,
